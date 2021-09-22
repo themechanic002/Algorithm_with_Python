@@ -1,8 +1,6 @@
 # 10830 행렬 제곱
 
-temp = list(map(int, input().split()))
-n = temp[0]
-b = temp[1]
+n, b = map(int, input().split())
 
 orig_matrix = []
 for i in range(n):
