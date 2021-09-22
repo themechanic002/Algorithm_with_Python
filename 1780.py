@@ -1,3 +1,5 @@
+# 1780 종이의 개수
+
 n = int(input())
 paper = []
 for i in range(n):
